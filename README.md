@@ -1,7 +1,7 @@
 # Estructura de Computadores
 
-Repositorio para las prácticas de la asignatura de Estructura de Computadoresr - **2º Año de carrera**
-- Curso 2020-2021
+Repositorio para las prácticas de la asignatura de Estructura de Computadores - **2º Año de carrera**
+- Curso 2019-2020
 - Alumno: José Javier Díaz González
 
 ### Listado de prácticas:
